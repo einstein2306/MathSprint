@@ -1,0 +1,14 @@
+.nav-active{
+  border-bottom: 2px solid orange;
+  display:inline-block;
+  color:orange !important;
+}
+
+.incorrect{
+  color:red;
+}
+
+.btn-link:hover{
+  background-color:black;
+  color:white;
+}
